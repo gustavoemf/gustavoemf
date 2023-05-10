@@ -1,10 +1,10 @@
-## Seja muito bem-vindo ao meu perfil<strong></strong>
+## 👋 Seja muito bem-vindo ao meu perfil<strong></strong>
 
 <p> 
   Me chamo Gustavo e atualmente sou estudante de Engenharia de Software na Universidade UniAmérica de Foz do Iguaçu.
 </p>
 
-## 🚀 Linguagens
+## 📚 Linguagens
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
