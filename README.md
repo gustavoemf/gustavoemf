@@ -39,6 +39,7 @@ Frontend Frameworks:
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
 ![Karma](https://img.shields.io/badge/-Karma-0D4C8F?style=flat-square&logo=karma&logoColor=white)
+<!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) -->
 
 Database:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
