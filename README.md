@@ -10,4 +10,4 @@ ____
 
 These are some of the technologies and tools that I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,go,spring,postgres,redis,mongodb,gradle,maven,linux,nginx,docker,kubernetes,kafka,rabbitmq,grafana,prometheus&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,spring,postgres,gradle,maven,linux,docker,kafka&perline=3)](https://skillicons.dev)
